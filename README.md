@@ -117,3 +117,7 @@ explicar o código. Use dados fictícios e **não publique senhas, credenciais,
 chaves de API nem dados pessoais reais**.
 
 **Documento de referência:** [Situação de Aprendizagem nº 1 — Da Ideia ao Código](documentos/SA_INTEGRAL.md).
+
+## Nicolas Ziegler Naressi
+##  Desenvolvimento de Sistemas M1
+## Fábrica de Chocolate
